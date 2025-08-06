@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Augusty10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I’m @Augusty10 (Dhanraj Sahu)
 
-<!---
-Augusty10/Augusty10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about Full Stack Web Development  
+- 🌱 Currently learning: JavaScript, React, Node.js & MongoDB  
+- 💻 Tech Stack: HTML | CSS | JavaScript | React | Node.js | Express | MongoDB  
+- 🤝 I’m looking to collaborate on open-source projects and innovative web apps  
+- 📫 How to reach me: dhanrajsahu.dev@gmail.com 
