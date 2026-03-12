@@ -1,7 +1,21 @@
-# 👋 Hi there, I’m @Augusty10 (Dhanraj Sahu)
+# Dhanraj Sahu
 
-- 👀 I’m passionate about Full Stack Web Development  
-- 🌱 Currently learning: JavaScript, React, Node.js & MongoDB  
-- 💻 Tech Stack: HTML | CSS | JavaScript | React | Node.js | Express | MongoDB  
-- 🤝 I’m looking to collaborate on open-source projects and innovative web apps  
-- 📫 How to reach me: dhanrajsahu.dev@gmail.com 
+Full Stack Web Developer (Learner)
+
+I am an MCA student passionate about building modern web applications and continuously improving my skills in full stack development. I enjoy working with modern JavaScript technologies and exploring scalable web solutions.
+
+## About Me
+
+* Currently learning: JavaScript, React, Node.js, and MongoDB
+* Strong interest in Full Stack Web Development
+* Building projects to improve practical development skills
+* Open to contributing to open-source projects and collaborative web applications
+
+## Tech Stack
+
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB
+
+## Contact
+
+Email: [dhanrajsahu.dev@gmail.com](mailto:dhanrajsahu.dev@gmail.com)
+GitHub: https://github.com/Augusty10
