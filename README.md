@@ -1,6 +1,6 @@
 # Dhanraj Sahu
 
-Full Stack Web Developer (Learner)
+Full Stack Web Developer
 
 I am an MCA student passionate about building modern web applications and continuously improving my skills in full stack development. I enjoy working with modern JavaScript technologies and exploring scalable web solutions.
 
@@ -12,8 +12,7 @@ I am an MCA student passionate about building modern web applications and contin
 * Open to contributing to open-source projects and collaborative web applications
 
 ## Tech Stack
-
-HTML | CSS | JavaScript | React | Node.js | Express | MongoDB
+MEARN |  Docker  | System Design 
 
 ## Contact
 
